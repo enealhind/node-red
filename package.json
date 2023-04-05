@@ -1,0 +1,10 @@
+{
+    "name": "node-red-git-project",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "node-red-contrib-bitbucket": "~1.0.2",
+        "node-red-dashboard": "^3.4.0"
+    }
+}
